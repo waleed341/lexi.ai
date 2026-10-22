@@ -1,0 +1,17 @@
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+.next/
+out/
+build/
+coverage/
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.log
+*.tsbuildinfo
+.vercel/
+.DS_Store
+*.pem
